@@ -83,6 +83,7 @@ body{
 
 .conteudo-principal-escrito-botao:hover{
     background-color: rgba(236, 214, 196, 0.53);
+    cursor: pointer;
 }
 
 .conteudo-principal-imagem{
